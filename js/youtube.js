@@ -22,4 +22,4 @@ contents.forEach((item) =>{
     </div>`     
 });
 document.querySelector('.vid-grid').innerHTML=bodyHTML;
-console.log(bodyHTML);
+
