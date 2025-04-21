@@ -21,5 +21,5 @@ contents.forEach((item) =>{
       </div>
     </div>`     
 });
-document.querySelector('.js-vid-grid').innerHTML=bodyHTML;
+document.querySelector('.vid-grid').innerHTML=bodyHTML;
 console.log(bodyHTML);
